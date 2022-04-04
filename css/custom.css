@@ -1,0 +1,5 @@
+@media screen and (max-width: 650px){
+    footer .inner > div {
+      width: 100% !important;
+    } 
+  }
