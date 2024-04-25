@@ -3959,7 +3959,7 @@ jQuery(document).ready(function () {
         }
         var colors = ["#00ff00", "#ff00ff", "#00ffff"];
         if (jQuery('#wpcf7-f4-p5-o1').length) {
-            colors = ["#9B1F10", "#E97F72", "#701004"];
+            colors = ["#165cb5", "#E97F72", "#701004"];
         }
         var doughnutData = [{
             value: 0,
